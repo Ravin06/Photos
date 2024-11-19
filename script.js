@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const modalCardImage = document.createElement("div");
             modalCardImage.classList.add("modal_card_image");
             const img = document.createElement("img");
-            img.src = imagePath;
+            img.src = '.' + imagePath;
             img.alt = `${folderName} image`;
             modalCardImage.appendChild(img);
             modalCard.appendChild(modalCardImage);
