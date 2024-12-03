@@ -1,4 +1,4 @@
 {
-    "Nature": ["/images/Nature/IMG_9620.JPG", "/images/Nature/IMG_7646.JPG"],
+    "Nature": ["./images/Nature/IMG_9620.JPG", "./images/Nature/IMG_7646.JPG"],
     "Sports": ["./images/Sports/IMG_7967.JPG", "./images/Sports/IMG_8034.JPG", "./images/Sports/IMG_7964.JPG", "./images/Sports/IMG_8041.JPG"]
 }
